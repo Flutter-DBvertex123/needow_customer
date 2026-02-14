@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "696496408410",
+    "project_id": "needdow-8dd3c",
+    "storage_bucket": "needdow-8dd3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696496408410:android:7b76b646f96db5cd651563",
+        "android_client_info": {
+          "package_name": "com.example.needow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSq2tbtRec3OMSQjxiOsXNC_136IYSkZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696496408410:android:41ab6e9f52ff1ec3651563",
+        "android_client_info": {
+          "package_name": "com.example.needowcustomer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSq2tbtRec3OMSQjxiOsXNC_136IYSkZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
